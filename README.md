@@ -7,8 +7,6 @@
 
 This project focuses on analyzing responses from a comprehensive survey of data professionals using Microsoft Power BI. The goal was to clean, transform, and visualize the data to uncover meaningful insights about roles, tools, salaries, and industry trends.
 
----
-
 ## 🔍 Project Scope
 
 ### 🧹 Data Cleaning
