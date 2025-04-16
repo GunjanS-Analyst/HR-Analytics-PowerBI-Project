@@ -1,76 +1,77 @@
-# 📊 Data Professional Survey Analysis with Power BI
+# 👥 HR Analytics Dashboard | Power BI Project
 
-This project analyzes a comprehensive survey dataset of data professionals using **Microsoft Power BI**. The aim was to clean, transform, and visualize the data to extract meaningful insights on **job roles**, **tool usage**, **salary distributions**, **happiness ratings**, and **industry trends**.
-
----
-
-## 🔍 Project Objective
-
-- Develop an interactive Power BI dashboard to understand the data profession landscape.
-- Analyze average salaries based on job titles.
-- Explore the relationship between current roles, salary, and happiness.
-- Identify top programming languages and tools used in the industry.
-- Visualize perceived difficulty in entering the data profession.
+This project showcases an interactive HR Analytics Dashboard built using **Microsoft Power BI**. It provides a strategic overview of employee attrition patterns and workforce composition, helping HR professionals make data-informed decisions for talent management and retention planning.
 
 ---
 
-## 🧹 Data Preparation & Cleaning
+## 🎯 Project Objective
 
-- Used **Power Query** to clean and shape the dataset.
-- Handled missing values, standardized formats, and resolved inconsistencies.
-- Removed outliers to ensure overall data integrity.
+The primary goal of this project was to:
 
----
-
-## 📈 Exploratory Data Analysis
-
-- Analyzed trends across job titles, experience levels, salaries, and tools.
-- Created **calculated columns** and **DAX measures** for deeper insights.
-- Explored responses across countries for global perspectives.
+- Analyze employee attrition across different job roles, departments, salary bands, education backgrounds, and age groups.
+- Understand trends in workforce demographics and tenure to identify high-risk attrition zones.
+- Design a dynamic, user-friendly dashboard that enables HR teams to explore insights interactively.
+- Support HR decision-making with visual storytelling and actionable analysis.
 
 ---
 
-## 📊 Key Insights & Visualizations
+## 🧠 Key Insights
 
-- 💼 **Average Salary by Job Title** – Interactive bar charts.
-- 🌍 **Survey Responses by Country** – Treemap showing salary, role, and location.
-- 😃 **Happiness Rating** – Card visuals based on role and salary.
-- 🧠 **Difficulty Breaking into Data** – Donut chart analysis.
-- 🖥️ **Programming Languages by Role** – Visuals grouped by profession.
+The dashboard offers deep analytical insights into:
+
+- **Attrition by Job Role**: Identifies which roles experience the highest turnover, helping HR target retention strategies where they’re most needed.
+- **Attrition by Education Level**: Reveals how educational background correlates with employee attrition, supporting more informed hiring or development strategies.
+- **Attrition by Salary Range**: Highlights how compensation influences attrition, uncovering potential gaps in pay structures.
+- **Attrition by Tenure**: Tracks employee exits across different lengths of service, signaling where engagement or onboarding efforts may be strengthened.
+- **Attrition by Age Group and Gender**: Provides demographic insights to support inclusive and balanced HR policies.
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 📊 Visualizations Used
 
-**Tools:**
-- Microsoft Power BI (Power Query, DAX, Data Modeling)
+- **KPI Cards**: Display high-level HR metrics such as average salary, employee count, and attrition rate for quick overview.
+- **Donut and Bar Charts**: Segment attrition data by education, gender, salary, job role, and age for clear comparative analysis.
+- **Line Chart**: Visualizes attrition over years at the company, helping spot patterns in tenure-related turnover.
+- **Matrix Table**: Offers a detailed breakdown of attrition count by job roles over time for granular tracking.
+- **Treemap**: Used to represent hierarchical data such as job roles within departments visually.
 
-**Skills:**
-- Data Cleaning & Transformation  
+---
+
+## 🛠️ Tools & Techniques Used
+
+**Power BI Features:**
+- Power Query for data cleaning and transformation
+- DAX for calculated columns, measures, and aggregations
+- Slicers and filters for interactive dashboard functionality
+- Data modeling to establish relationships between different HR attributes
+
+**Key Skills Applied:**
+- Data Wrangling and Transformation  
 - Exploratory Data Analysis (EDA)  
-- Dashboard Design & Visual Storytelling  
-- Business Intelligence
+- Business Intelligence Reporting  
+- Interactive Dashboard Design  
+- Visual Storytelling for HR Strategy
 
 ---
 
-## 📌 Highlights
+## 📌 Project Highlights
 
-- Transformed raw survey data into clear, interactive dashboards.
-- Delivered actionable insights into roles, salaries, tools, and job satisfaction.
-- Gained practical experience with a dataset from **Alex The Analyst's Bootcamp**.
-
+- Designed with a clean, professional UI to ensure usability by non-technical HR stakeholders.
+- Emphasized dynamic filtering by department to enable focused analysis.
+- Combined strategic metrics with demographic trends to provide a holistic view of attrition.
+- Transformed static HR data into a powerful decision-support tool.
 
 ---
 
-## 📁 Dataset Source
+## 📁 Dataset
 
-Sample survey dataset provided by **Alex The Analyst Bootcamp**.
+Sample survey dataset provided by **Alex The Analyst Bootcamp**. It simulates real-world employee records across various roles, departments, and demographic categories.
 
 ---
 
 ## 📣 Final Note
 
-This practice project has been an enriching experience and a great opportunity to strengthen my Power BI and data storytelling skills. I look forward to applying these skills to more real-world datasets!
+This HR Analytics Dashboard demonstrates how Power BI can convert raw HR data into meaningful insights for proactive workforce planning. It was a valuable hands-on project to apply my data visualization, storytelling, and analytical skills to a real-world HR use case.
 
 
 🔗 **Dashboard Link**: [Click to View Dashboard](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d633f47b-5df1-4fe8-9b79-8189bcc60c5b)
