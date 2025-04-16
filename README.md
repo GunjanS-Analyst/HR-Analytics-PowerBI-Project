@@ -48,6 +48,4 @@ This project focuses on analyzing responses from a comprehensive survey of data 
 - Delivered insights on job roles, tool usage, salary distribution, and industry trends  
 - Demonstrated strong command of Power BI's data handling and visualization capabilities
 
----
 
-Let me know if you'd like help adding a link to the live dashboard or embedding visuals!
