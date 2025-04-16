@@ -1,4 +1,4 @@
-📊 **Data Professional Survey Analysis with Power BI**  
+## 📊 **Data Professional Survey Analysis with Power BI**  
 This project focuses on analyzing responses from a comprehensive survey of data professionals using Microsoft Power BI. The goal was to clean, transform, and visualize the data to uncover meaningful insights about roles, tools, salaries, and industry trends.
 
 🔍 **Project Scope**
@@ -32,4 +32,3 @@ This project focuses on analyzing responses from a comprehensive survey of data 
 - Demonstrated strong command of Power BI's data handling and visualization capabilities  
 
 🔗 **Dashboard Link**: [Click to View Dashboard](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d633f47b-5df1-4fe8-9b79-8189bcc60c5b)
-
