@@ -1,0 +1,42 @@
+Transforming HR with data-driven insights! This dashboard provides a comprehensive look at key HR metrics to help organizations understand and manage employee attrition better.
+
+Key Features:
+
+🔍 Total Employees: 
+Our organization has a total workforce of 1480 employees, and this dashboard gives a holistic view of their demographics and performance.
+
+🔍 Attrition Count & Rate: 
+- Total Attrition Count: 238 employees 
+- Attrition Rate: 16%
+Understanding the reasons behind this attrition rate is crucial for improving retention strategies.
+
+🔍 Average Metrics:
+- Average Age: 37 years
+- Average Monthly Income: $6.50K
+- Average Years of Service: 7 years
+
+🔍 Attrition By Education:
+Insight into the educational background of employees who left the organization. The majority come from Life Sciences (37%), followed by Medical (26%), Marketing (15%), and Technical Degrees (13%).
+
+🔍 Attrition By Age Group: 
+The highest attrition is among employees aged 26-35 (116), followed by 18-25 (44), and 36-45 (43). Understanding age-related trends helps tailor engagement and retention strategies.
+
+🔍 Attrition By Salary Slab: 
+Most attrition occurs in the lowest salary slab (Up to $5K) with 163 employees. This data helps in reviewing compensation strategies to improve retention.
+
+🔍 Attrition By Job Role: 
+Top roles with highest attrition are:
+- Research Scientist: 100
+- Human Resource: 58
+- Sales Representative: 44
+- Laboratory Technician: 31
+This information aids in role-specific retention plans.
+
+🔍 Attrition By Years At Company: 
+A notable spike at 2 years, followed by a gradual decline, suggests critical points in the employee lifecycle that require focused attention.
+
+🔍 Interactive Features:
+- Department Filters: Easily switch between Human Resources, Research & Development, and Sales to get department-specific insights.
+- Dynamic Visuals: Real-time insights into various attrition metrics.
+
+This dashboard empowers HR teams to make data-driven decisions, understand trends, and implement effective retention strategies. By leveraging these insights, organizations can create a better working environment and improve overall employee satisfaction.
