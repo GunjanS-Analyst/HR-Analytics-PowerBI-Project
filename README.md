@@ -65,7 +65,7 @@ The dashboard offers deep analytical insights into:
 
 ## 📁 Dataset
 
-Sample survey dataset provided by **Alex The Analyst Bootcamp**. It simulates real-world employee records across various roles, departments, and demographic categories.
+Sample survey dataset provided by **Alex The Analyst**. It simulates real-world employee records across various roles, departments, and demographic categories.
 
 ---
 
